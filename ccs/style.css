@@ -1,0 +1,24 @@
+* {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#menu {
+    width: 80%;
+    height: 20%;
+    padding: 10px;
+}
+
+.lista-menu {
+    list-style: none;
+}
+
+#logo-menu {
+    width: 200px;
+    height: 150px;
+}
+
+.icones {
+    width: 30px;
+    padding-right: 10px;
+}
+
